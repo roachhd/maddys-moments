@@ -10,3 +10,4 @@
 - 28/06/2012 Awarded *First Pupil of the Week* award
 - 18/12/2012 Acheived *Tadpole Certificate* for swimming
 - 24/04/2014 Designed a game: [Lil Mads](http://bit.ly/LilMadsiOS. "Lil Mads")
+- 01/11/2014-01/05/2015 Lived as a champ 
