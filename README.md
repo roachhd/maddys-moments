@@ -18,14 +18,12 @@ A fork of [Life](https://github.com/cheeaun/life/) with added style and flair ðŸ
 
 ######Datetime "syntax"
 
-````
 - `2000` - event that happen in that year
 - `01/2000` - event that happen in that month/year
 - `01/01/2000` - event that happen exactly in that day/month/year
 - `2001-2005`, `10/2001-02/03/2005` - event that happen within the two dates
 - `~2005` - event that happen around the time in that year
 - `2005-~` - event that happen from that year and beyond (now).
-````
 
 
 ######How to configure your *Life*
@@ -35,11 +33,9 @@ A fork of [Life](https://github.com/cheeaun/life/) with added style and flair ðŸ
 
 The configuration:
 
-````
 - `customStylesheetURL` - (*string*, default to `null`) Path to a custom stylesheet file, for those who doesn't like the default *theme*.
 - `yearLength` - (*number*, default to `120`) The width of the year grids, in pixels.
 - `hideAge` - (*boolean*, default to `false`) Option to hide age from year axis.
-````
 
 
 ---
